@@ -1,12 +1,12 @@
-## Unwound
+# Unwound
 
 “Rewind your steps. Heal your wounds.”
 
 Unwound is a 2D narrative-driven platformer that blends exploration, memory, and redemption. Step into a fractured world torn apart by a fallen flame, where your actions—or inactions—have left scars on its people and yourself.
 
 The game is structured in two phases:
-The Forward Journey: Traverse the world in silence. You cannot fight, interact, or speak. Evade enemies, solve environmental puzzles, and discover a haunting, broken world as it drifts toward oblivion.
-The Return: Replay the world backwards with the power to act. Fight enemies, restore lost connections with NPCs, and heal the scars of the past. Your choices affect relationships, unlock side stories, and determine the ultimate fate of the world—and yourself.
+* The Forward Journey: Traverse the world in silence. You cannot fight, interact, or speak. Evade enemies, solve environmental puzzles, and discover a haunting, broken world as it drifts toward oblivion.
+* The Return: Replay the world backwards with the power to act. Fight enemies, restore lost connections with NPCs, and heal the scars of the past. Your choices affect relationships, unlock side stories, and determine the ultimate fate of the world—and yourself.
 
 At the heart of Unwound lies the secret confrontation with Lyren, The One You Left, your twin flame abandoned at the world’s fall. Confront them through multiple attempts, and navigate a tense emotional landscape shaped by regret, forgiveness, and the echoes of unfinished stories.
 Every NPC has a story to tell. Every wound can be mended—or left to fester. The world responds to your choices, giving weight to exploration, side quests, and replaying your own past.
