@@ -15,16 +15,16 @@ Every NPC has a story to tell. Every wound can be mended—or left to fester. Th
 
 Key Features:
 
-Dual-Phase Gameplay: Play first as a silent observer, then as an active participant shaping the world.
+* Dual-Phase Gameplay: Play first as a silent observer, then as an active participant shaping the world.
 
-Narrative-Driven Replay: Every choice on the return path changes the fate of NPCs, enemies, and the world.
+* Narrative-Driven Replay: Every choice on the return path changes the fate of NPCs, enemies, and the world.
 
-Dynamic Side Quests: NPC stories unfold based on your interactions, mini-games, and collectibles.
+* Dynamic Side Quests: NPC stories unfold based on your interactions, mini-games, and collectibles.
 
-Emotional Boss Battles: Face Lyren in a fight that is as much about memory and regret as skill.
+* Emotional Boss Battles: Face Lyren in a fight that is as much about memory and regret as skill.
 
-Multiple Endings: Six core endings plus secret and optional finales, shaped by quest completion and final confrontation.
+* Multiple Endings: Six core endings plus secret and optional finales, shaped by quest completion and final confrontation.
 
-Atmospheric Art and Music: A hand-crafted, haunting world inspired by Hollow Knight and indie Metroidvania aesthetics.
+* Atmospheric Art and Music: A hand-crafted, haunting world inspired by Hollow Knight and indie Metroidvania aesthetics.
 
-Meaningful Consequences: Your failures, successes, and inaction echo across the story—ultimately shaping the world’s light and darkness.
+* Meaningful Consequences: Your failures, successes, and inaction echo across the story—ultimately shaping the world’s light and darkness.
